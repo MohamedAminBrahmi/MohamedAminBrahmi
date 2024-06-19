@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohamed Amin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/med-amin-brahmi-950252276/">Data Analyst</a>
+<h1>Hi, I'm Mohamed Amin! <br/><a href="https://github.com/MohamedAminBrahmi">Programmer</a>, <a href="https://www.linkedin.com/in/med-amin-brahmi-950252276/">Data Analyst</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
