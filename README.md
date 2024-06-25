@@ -10,7 +10,7 @@
   - [Netflix Analysis](https://github.com/MohamedAminBrahmi/Netflix-DA)
 
  
-  <h2>⚡  End of Study Project (Bachelor):</h2>
+<h2>⚡  End of Study Project (Bachelor):</h2>
 
 - <b>Java (Spring Boot)</b>
   - [GDS Api Integration (Booking Engine)](https://github.com/MohamedAminBrahmi/Exrenal-Api-end-of-study-project)
