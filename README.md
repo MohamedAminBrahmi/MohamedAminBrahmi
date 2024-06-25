@@ -16,11 +16,13 @@
   - [GDS Api Integration (Booking Engine)](https://github.com/MohamedAminBrahmi/Exrenal-Api-end-of-study-project)
 
 <h2> 🤳 Connect with me:</h2>
-<b>brahmimedamin7@gmail.com</b>
+
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/med-amin-brahmi-950252276/
+
+<h2>💬 brahmimedamin7@gmail.com</h2>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
