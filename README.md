@@ -18,8 +18,9 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
-<h2>⚡  End of Study project (bachelor): </h2>
-- <b>Java (spring Boot)</b>
+  <h2>⚡  End of Study Project (Bachelor):</h2>
+
+- <b>Java (Spring Boot)</b>
   - [GDS Api Integration (Booking Engine)](https://github.com/MohamedAminBrahmi/Exrenal-Api-end-of-study-project)
 
 <h2> 🤳 Connect with me:</h2>
