@@ -1,43 +1,29 @@
-<h1>Hi, I'm Mohamed Amin! <br/><a href="https://github.com/MohamedAminBrahmi">Programmer</a>, <a href="https://www.linkedin.com/in/med-amin-brahmi-950252276/">Data Analyst</a>
+<h1>Hi, I'm Mohamed Amin! <br/><a href="https://github.com/MohamedAminBrahmi">Programmer</a>, <a href="https://www.linkedin.com/in/med-amin-brahmi-950252276/">Data Analyst</a></h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
-  
-- <b>Python Data Analysis (Pandas ,Numpy ,Seaborn)</b>
-  - [Weather Analysis](https://github.com/MohamedAminBrahmi/Weather-DA)
-  - [Cars Stats Analysis](https://github.com/MohamedAminBrahmi/Car-DA)
-  - [Police Informations Analysis](https://github.com/MohamedAminBrahmi/Police-DA)
-  - [Covid-19 infections Analysis](https://github.com/MohamedAminBrahmi/Covid-DA-)
-  - [Netflix Analysis](https://github.com/MohamedAminBrahmi/Netflix-DA)
+<ul>
+  <li><b>Python Data Analysis (Pandas ,Numpy ,Seaborn)</b></li>
+  <ul>
+    <li><a href="https://github.com/MohamedAminBrahmi/Weather-DA">Weather Analysis</a></li>
+    <li><a href="https://github.com/MohamedAminBrahmi/Car-DA">Cars Stats Analysis</a></li>
+    <li><a href="https://github.com/MohamedAminBrahmi/Police-DA">Police Informations Analysis</a></li>
+    <li><a href="https://github.com/MohamedAminBrahmi/Covid-DA-">Covid-19 Infections Analysis</a></li>
+    <li><a href="https://github.com/MohamedAminBrahmi/Netflix-DA">Netflix Analysis</a></li>
+  </ul>
+  <li><b>Power BI Projects</b></li>
+  <ul>
+    <li><a href="https://github.com/MohamedAminBrahmi/Healthcare-data-insight-2019-2024">Healthcare Data Insights 2019-2024</a></li>
+    <li><a href="https://github.com/MohamedAminBrahmi/Data-Professional-Survey-Breakdown">Data Professional Survey Breakdown</a></li>
+  </ul>
+</ul>
 
- 
 <h2>⚡  End of Study Project (Bachelor):</h2>
+<ul>
+  <li><b>Java (Spring Boot)</b> - <a href="https://github.com/MohamedAminBrahmi/Exrenal-Api-end-of-study-project">GDS Api Integration (Booking Engine)</a></li>
+</ul>
 
-- <b>Java (Spring Boot)</b>
-  - [GDS Api Integration (Booking Engine)](https://github.com/MohamedAminBrahmi/Exrenal-Api-end-of-study-project)
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/med-amin-brahmi-950252276/
-
-
+<h2>🤳 Connect with me:</h2>
+<a href="https://www.linkedin.com/in/med-amin-brahmi-950252276/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <br>
 
 <h2>💬 brahmimedamin7@gmail.com</h2>
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
