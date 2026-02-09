@@ -1,40 +1,282 @@
-<h1>Hi, I'm Mohamed Amin! <br/><a href="https://github.com/MohamedAminBrahmi">Programmer</a>, <a href="https://www.linkedin.com/in/med-amin-brahmi-950252276/">Business Analyst</a></h1>
+<div align="center">
+  
+# 👋 Hi, I'm Mohamed Amin Brahmi
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
-<ul>
-  <li><b>Python Data Analysis (Pandas ,Numpy ,Seaborn)</b></li>
-  <ul>
-    <li><a href="https://github.com/MohamedAminBrahmi/Weather-DA">Weather Analysis</a></li>
-    <li><a href="https://github.com/MohamedAminBrahmi/Car-DA">Cars Stats Analysis</a></li>
-    <li><a href="https://github.com/MohamedAminBrahmi/Police-DA">Police Informations Analysis</a></li>
-    <li><a href="https://github.com/MohamedAminBrahmi/Covid-DA-">Covid-19 Infections Analysis</a></li>
-    <li><a href="https://github.com/MohamedAminBrahmi/Netflix-DA">Netflix Analysis</a></li>
-  </ul>
-  <li><b>Power BI Projects</b></li>
-  <ul>
-    <li><a href="https://github.com/MohamedAminBrahmi/Healthcare-data-insight-2019-2024">Healthcare Data Insights 2019-2024</a></li>
-    <li><a href="https://github.com/MohamedAminBrahmi/Data-Professional-Survey-Breakdown">Data Professional Survey Breakdown</a></li>
-  </ul>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Analyst;Python+%7C+Power+BI+%7C+SQL;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
-  <!-- NEW: Mytek project entry -->
-  <li><b>Summer Internship — Mytek Analysis (Scraping & Power BI)</b></li>
-  <ul>
-    <li>
-      <a href="https://github.com/MohamedAminBrahmi/Summer_Intern_Mytek_Analysis">
-        Mytek E‑commerce Analysis — Summer_Intern_Mytek_Analysis
-      </a>
-      &mdash; An end-to-end project that scrapes Mytek product pages, cleans and consolidates product datasets, and delivers Power BI reports (.pbix) and a presentation summarizing KPIs and insights.
-    </li>
-  </ul>
-</ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/med-amin-brahmi-950252276/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahmimedamin7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAminBrahmi)
 
-<h2>⚡ End of Study Project (Bachelor):</h2>
-<ul>
-  <li><b>Java (Spring Boot)</b> - <a href="https://github.com/MohamedAminBrahmi/Exrenal-Api-end-of-study-project">GDS Api Integration (Booking Engine)</a></li>
-</ul>
+</div>
 
-<h2>🤳 Connect with me:</h2>
-<a href="https://www.linkedin.com/in/med-amin-brahmi-950252276/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<br>
+---
 
-<h2>💬 brahmimedamin7@gmail.com</h2>
+## 🚀 About Me
+
+> Passionate **Data Analyst** and **Business Analyst** with expertise in transforming complex datasets into actionable business insights. Skilled in Python, Power BI, and modern data analysis frameworks.
+
+```python
+class MohamedAmin:
+    def __init__(self):
+        self.role = "Data Analyst | Business Analyst"
+        self.languages = ["Python", "Java", "SQL"]
+        self.tools = ["Pandas", "NumPy", "Seaborn", "Power BI", "Spring Boot"]
+        self.specialties = ["Data Analysis", "Data Visualization", "Web Scraping"]
+        self.currently_learning = ["Advanced ML", "Cloud Analytics"]
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's turn data into decisions together 📊")
+
+me = MohamedAmin()
+me.say_hi()
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Featured Projects
+
+### 🐍 Python Data Analysis Portfolio
+
+<table>
+<tr>
+<td width="50%">
+
+#### ☁️ [Weather Analysis](https://github.com/MohamedAminBrahmi/Weather-DA)
+Comprehensive weather data analysis using **Pandas**, **NumPy**, and **Seaborn**
+
+**Key Insights:**
+- Temperature trends & patterns
+- Precipitation analysis
+- Climate visualization
+
+**Tech:** `Python` `Pandas` `Matplotlib`
+
+</td>
+<td width="50%">
+
+#### 🚗 [Cars Stats Analysis](https://github.com/MohamedAminBrahmi/Car-DA)
+In-depth automotive statistics exploration
+
+**Highlights:**
+- Performance metrics
+- Market trends
+- Comparative analysis
+
+**Tech:** `Python` `Seaborn` `NumPy`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 👮 [Police Data Analysis](https://github.com/MohamedAminBrahmi/Police-DA)
+Statistical analysis of law enforcement data
+
+**Features:**
+- Pattern recognition
+- Demographic insights
+- Time-series analysis
+
+**Tech:** `Python` `Pandas` `Visualization`
+
+</td>
+<td width="50%">
+
+#### 🦠 [COVID-19 Analysis](https://github.com/MohamedAminBrahmi/Covid-DA-)
+Tracking and analyzing pandemic infection rates
+
+**Analysis:**
+- Infection curves
+- Regional comparisons
+- Forecasting trends
+
+**Tech:** `Python` `Data Science` `Statistics`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+#### 🎬 [Netflix Content Analysis](https://github.com/MohamedAminBrahmi/Netflix-DA)
+Exploring Netflix's content library and viewer trends
+
+**Insights:** Content distribution • Genre analysis • Release patterns
+
+**Tech:** `Python` `Pandas` `Seaborn` `Data Visualization`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 Power BI Dashboards
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏥 [Healthcare Data Insights (2019-2024)](https://github.com/MohamedAminBrahmi/Healthcare-data-insight-2019-2024)
+
+Comprehensive healthcare analytics dashboard
+
+**Features:**
+- 📊 Patient demographics
+- 💊 Treatment outcomes
+- 📅 5-year trend analysis
+- 🎯 KPI monitoring
+
+</td>
+<td width="50%">
+
+#### 💼 [Data Professional Survey](https://github.com/MohamedAminBrahmi/Data-Professional-Survey-Breakdown)
+
+Industry insights from data professionals
+
+**Analysis:**
+- 💰 Salary benchmarks
+- 🛠️ Tool preferences
+- 📍 Geographic distribution
+- 🎓 Education trends
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏢 Professional Experience
+
+#### 🛒 [Summer Internship — Mytek E-commerce Analysis](https://github.com/MohamedAminBrahmi/Summer_Intern_Mytek_Analysis)
+
+**End-to-end data pipeline project combining web scraping, ETL, and business intelligence**
+
+<details>
+<summary>📋 <b>Project Details</b> (Click to expand)</summary>
+
+##### 🎯 Objectives
+- Automated web scraping of Mytek product catalog
+- Data cleaning and consolidation pipeline
+- Interactive Power BI reporting dashboard
+- Business insights presentation
+
+##### 🔧 Technical Stack
+- **Scraping:** Python, BeautifulSoup, Selenium
+- **Data Processing:** Pandas, NumPy
+- **Visualization:** Power BI
+- **Reporting:** PowerPoint presentation
+
+##### 📊 Key Deliverables
+- ✅ Automated product data extraction
+- ✅ Cleaned datasets with 10,000+ records
+- ✅ Interactive Power BI dashboard (.pbix)
+- ✅ Executive summary presentation
+- ✅ KPI tracking & trend analysis
+
+##### 💡 Business Impact
+- Identified pricing optimization opportunities
+- Analyzed product category performance
+- Tracked inventory trends
+- Provided actionable recommendations
+
+</details>
+
+---
+
+### 🎓 Capstone Project (Bachelor's Degree)
+
+#### ✈️ [GDS API Integration - Booking Engine](https://github.com/MohamedAminBrahmi/Exrenal-Api-end-of-study-project)
+
+**Full-stack travel booking system with external API integration**
+
+**Technologies:**
+- `Java` `Spring Boot` `REST APIs` `Microservices`
+
+**Features:**
+- Real-time flight/hotel booking
+- GDS system integration
+- Secure payment processing
+- RESTful architecture
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedAminBrahmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAminBrahmi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAminBrahmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedAminBrahmi&color=2D9CDB&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced Machine Learning Techniques
+  - Cloud-based Analytics (Azure, AWS)
+  - Real-time Data Streaming
+
+working_on:
+  - Expanding data analysis portfolio
+  - Building interactive dashboards
+  - Contributing to open-source projects
+
+seeking:
+  - Data Analyst opportunities
+  - Business Intelligence roles
+  - Collaborative data projects
+```
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+I'm always interested in collaborating on data-driven projects and discussing analytics opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Amin_Brahmi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/med-amin-brahmi-950252276/)
+[![Email](https://img.shields.io/badge/Email-brahmimedamin7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahmimedamin7@gmail.com)
+
+### 📫 Open to:
+✨ Data Analysis Projects | 💼 Job Opportunities | 🤝 Collaboration | 📚 Knowledge Sharing
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
