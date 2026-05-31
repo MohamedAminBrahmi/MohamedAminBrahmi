@@ -259,9 +259,14 @@ Industry insights from data professionals
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MohamedAminBrahmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAminBrahmi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAminBrahmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedAminBrahmi&color=2D9CDB&style=for-the-badge&label=PROFILE+VIEWS)
 
