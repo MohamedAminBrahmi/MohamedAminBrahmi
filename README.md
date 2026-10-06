@@ -89,113 +89,9 @@ me.say_hi()
 
 ### 🐍 Python Data Analysis Portfolio
 
-<table>
-<tr>
-<td width="50%">
-
-#### ☁️ [Weather Analysis](https://github.com/MohamedAminBrahmi/Weather-DA)
-Comprehensive weather data analysis using **Pandas**, **NumPy**, and **Seaborn**
-
-**Key Insights:**
-- Temperature trends & patterns
-- Precipitation analysis
-- Climate visualization
-
-**Tech:** `Python` `Pandas` `Matplotlib`
-
-</td>
-<td width="50%">
-
-#### 🚗 [Cars Stats Analysis](https://github.com/MohamedAminBrahmi/Car-DA)
-In-depth automotive statistics exploration
-
-**Highlights:**
-- Performance metrics
-- Market trends
-- Comparative analysis
-
-**Tech:** `Python` `Seaborn` `NumPy`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 👮 [Police Data Analysis](https://github.com/MohamedAminBrahmi/Police-DA)
-Statistical analysis of law enforcement data
-
-**Features:**
-- Pattern recognition
-- Demographic insights
-- Time-series analysis
-
-**Tech:** `Python` `Pandas` `Visualization`
-
-</td>
-<td width="50%">
-
-#### 🦠 [COVID-19 Analysis](https://github.com/MohamedAminBrahmi/Covid-DA-)
-Tracking and analyzing pandemic infection rates
-
-**Analysis:**
-- Infection curves
-- Regional comparisons
-- Forecasting trends
-
-**Tech:** `Python` `Data Science` `Statistics`
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-#### 🎬 [Netflix Content Analysis](https://github.com/MohamedAminBrahmi/Netflix-DA)
-Exploring Netflix's content library and viewer trends
-
-**Insights:** Content distribution • Genre analysis • Release patterns
-
-**Tech:** `Python` `Pandas` `Seaborn` `Data Visualization`
-
-</td>
-</tr>
-</table>
-
----
-
-### 📈 Power BI Dashboards
+## 📊 Business Intelligence & Power BI Portfolio
 
 <table>
-<tr>
-<td width="50%">
-
-#### 🏥 [Healthcare Data Insights (2019-2024)](https://github.com/MohamedAminBrahmi/Healthcare-data-insight-2019-2024)
-
-Comprehensive healthcare analytics dashboard
-
-**Features:**
-- 📊 Patient demographics
-- 💊 Treatment outcomes
-- 📅 5-year trend analysis
-- 🎯 KPI monitoring
-
-</td>
-<td width="50%">
-
-#### 💼 [Data Professional Survey](https://github.com/MohamedAminBrahmi/Data-Professional-Survey-Breakdown)
-
-Industry insights from data professionals
-
-**Analysis:**
-- 💰 Salary benchmarks
-- 🛠️ Tool preferences
-- 📍 Geographic distribution
-- 🎓 Education trends
-
-</td>
-</tr>
-
 <tr>
 <td width="50%">
 
@@ -233,15 +129,130 @@ End-to-end e-commerce data analysis project developed during my internship.
 </tr>
 
 <tr>
+<td width="50%">
+
+#### 🏥 [Healthcare Data Insights (2019-2024)](https://github.com/MohamedAminBrahmi/Healthcare-data-insight-2019-2024)
+
+Comprehensive healthcare analytics dashboard.
+
+**Features:**
+- 📊 Patient demographics
+- 💊 Treatment outcomes
+- 📅 5-year trend analysis
+- 🎯 KPI monitoring
+
+**Tech:** `Power BI` `DAX` `Data Modeling`
+
+</td>
+<td width="50%">
+
+#### 💼 [Data Professional Survey](https://github.com/MohamedAminBrahmi/Data-Professional-Survey-Breakdown)
+
+Industry insights from data professionals.
+
+**Analysis:**
+- 💰 Salary benchmarks
+- 🛠️ Tool preferences
+- 📍 Geographic distribution
+- 🎓 Education trends
+
+**Tech:** `Power BI` `DAX` `Data Visualization`
+
+</td>
+</tr>
+
+<tr>
 <td colspan="2">
 
-#### 👨‍💻 [Remote Jobs Fetching Automation](https://github.com/MohamedAminBrahmi/Remote-Jobs-Fetching-Automation)
+#### 🔄 [Remote Jobs Fetching Automation](https://github.com/MohamedAminBrahmi/Remote-Jobs-Fetching-Automation)
 
-Automated data collection pipeline for remote job opportunities.
+Automated data collection and processing pipeline for remote job opportunities.
 
 **Features:** API data collection • Data processing • Excel output • Automated execution
 
 **Tech:** `Python` `APIs` `Pandas` `Excel` `Airflow` `Docker`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🐍 Python Data Analytics Portfolio
+
+<table>
+<tr>
+<td width="50%">
+
+#### ☁️ [Weather Analysis](https://github.com/MohamedAminBrahmi/Weather-DA)
+
+Comprehensive weather data analysis using **Pandas**, **NumPy**, and **Seaborn**
+
+**Key Insights:**
+- Temperature trends & patterns
+- Precipitation analysis
+- Climate visualization
+
+**Tech:** `Python` `Pandas` `Matplotlib`
+
+</td>
+<td width="50%">
+
+#### 🚗 [Cars Stats Analysis](https://github.com/MohamedAminBrahmi/Car-DA)
+
+In-depth automotive statistics exploration
+
+**Highlights:**
+- Performance metrics
+- Market trends
+- Comparative analysis
+
+**Tech:** `Python` `Seaborn` `NumPy`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 👮 [Police Data Analysis](https://github.com/MohamedAminBrahmi/Police-DA)
+
+Statistical analysis of law enforcement data
+
+**Features:**
+- Pattern recognition
+- Demographic insights
+- Time-series analysis
+
+**Tech:** `Python` `Pandas` `Visualization`
+
+</td>
+<td width="50%">
+
+#### 🦠 [COVID-19 Analysis](https://github.com/MohamedAminBrahmi/Covid-DA-)
+
+Tracking and analyzing pandemic infection rates
+
+**Analysis:**
+- Infection curves
+- Regional comparisons
+- Forecasting trends
+
+**Tech:** `Python` `Data Science` `Statistics`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+#### 🎬 [Netflix Content Analysis](https://github.com/MohamedAminBrahmi/Netflix-DA)
+
+Exploring Netflix's content library and viewer trends
+
+**Insights:** Content distribution • Genre analysis • Release patterns
+
+**Tech:** `Python` `Pandas` `Seaborn` `Data Visualization`
 
 </td>
 </tr>
