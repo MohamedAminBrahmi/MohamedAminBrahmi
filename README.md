@@ -1,12 +1,8 @@
 <div align="center">
-
+  
 # 👋 Hi, I'm Mohamed Amin Brahmi
 
-### Data Analyst | Business Intelligence | Data Engineering
-
-Turning raw data into **actionable insights, reliable data pipelines, and interactive BI solutions.**
-
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Analyst;Python+%7C+Power+BI+%7C+SQL;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/med-amin-brahmi-950252276/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahmimedamin7@gmail.com)
@@ -18,270 +14,351 @@ Turning raw data into **actionable insights, reliable data pipelines, and intera
 
 ## 🚀 About Me
 
-I'm a **Data Analyst and Business Intelligence enthusiast** focused on transforming raw and heterogeneous data into meaningful business insights.
+> Passionate **Data Analyst** and **Business Analyst** with expertise in transforming complex datasets into actionable business insights. Skilled in Python, Power BI, and modern data analysis frameworks.
 
-My projects combine:
+```python
+class MohamedAmin:
+    def __init__(self):
+        self.role = "Data Analyst | Business Analyst"
+        self.languages = ["Python", "Java", "SQL"]
+        self.tools = ["Pandas", "NumPy", "Seaborn", "Power BI", "Spring Boot"]
+        self.specialties = ["Data Analysis", "Data Visualization", "Web Scraping"]
+        self.currently_learning = ["Advanced ML", "Cloud Analytics"]
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's turn data into decisions together 📊")
 
-- 📊 Business Intelligence & Data Visualization
-- 🔄 ETL & Data Integration
-- 🗄️ Data Warehousing & Data Modeling
-- 🐍 Python Data Analysis & Web Scraping
-- 🧮 SQL & Database Management
-- 📈 Power BI Reporting & KPI Development
-- ⚙️ Data Automation
-
-I enjoy working across the complete data lifecycle:
-
-**Data Collection → Data Cleaning → ETL → Data Warehouse → Analysis → Visualization → Business Insights**
+me = MohamedAmin()
+me.say_hi()
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Data Analysis
+<div align="center">
 
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 📊 Business Intelligence
-
+### BI & Reporting
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![KPI Design](https://img.shields.io/badge/KPI_Design-0078D4?style=for-the-badge&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-5C2D91?style=for-the-badge&logoColor=white)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-217346?style=for-the-badge&logoColor=white)
 
-### 🔄 ETL & Data Engineering
-
+### Data & ETL
 ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 🌐 Data Collection
-
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Databases
-
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-# 📊 Featured Projects
-
-## 💼 Job Postings Data Warehouse & BI
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/MohamedAminBrahmi/Job-Posting-Intern-Project)
-
-An end-to-end **Business Intelligence and Data Warehousing project** built around job-posting data.
-
-### 🔄 Data Pipeline
-
-**Data Collection → Cleaning → Talend ETL → MySQL Data Warehouse → Power BI**
-
-### 📌 Key Components
-
-- Data extraction and preparation
-- ETL workflows using **Talend**
-- Relational data warehouse design
-- Fact and dimension modeling
-- Job, company, salary, skills and requirements analysis
-- KPI development
-- Interactive Power BI dashboards
-- Salary and recruitment-market analysis
-
-### 🛠️ Technologies
-
-`Python` `Talend` `MySQL` `Power BI` `SQL` `ETL` `Data Warehouse`
-
----
-
-## 🛒 Mytek E-Commerce Data Analysis
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/MohamedAminBrahmi/Summer_Intern_Mytek_Analysis)
-
-End-to-end e-commerce data analysis project developed during my internship.
-
-### 🔎 Workflow
-
-**Web Scraping → Data Cleaning → Data Analysis → Power BI Dashboard**
-
-### 📌 Key Activities
-
-- Automated product data collection
-- Web scraping using Python
-- Data cleaning and transformation
-- Product and category analysis
-- Pricing analysis
-- Business KPI development
-- Interactive Power BI reporting
-
-### 🛠️ Technologies
-
-`Python` `BeautifulSoup` `Selenium` `Pandas` `NumPy` `Power BI`
-
----
-
-## 📈 Healthcare Data Insights
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/MohamedAminBrahmi/Healthcare-data-insight-2019-2024)
-
-Interactive Power BI analysis of healthcare data covering multiple years.
-
-### 📊 Analysis Areas
-
-- Patient demographics
-- Healthcare KPIs
-- Treatment analysis
-- Time-based trends
-- Comparative analysis
-- Interactive reporting
-
-### 🛠️ Technologies
-
-`Power BI` `Data Modeling` `DAX` `Data Visualization`
-
----
-
-## 👨‍💻 Data Professional Survey Analysis
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/MohamedAminBrahmi/Data-Professional-Survey-Breakdown)
-
-Analysis of a survey dataset focused on professionals working in the data industry.
-
-### 📊 Insights
-
-- Salary analysis
-- Programming language preferences
-- Data-tool popularity
-- Geographic distribution
-- Professional background
-- Industry trends
-
-### 🛠️ Technologies
-
-`Power BI` `DAX` `Data Cleaning` `Data Visualization`
-
----
-
-# 🤖 Data Automation
-
-## 🔄 Remote Jobs Fetching Automation
-
-A data automation project designed to collect remote job opportunities from online sources and organize them into structured datasets.
-
-### ⚙️ Workflow
-
-**Job APIs / Sources → Python → Data Processing → Excel → Automated Execution**
-
-The project explores automated data collection and scheduled data-processing workflows.
-
-### 🛠️ Technologies
-
-`Python` `APIs` `Pandas` `Excel` `Automation` `Airflow` `Docker`
-
----
-
-# 🐍 Python Data Analysis
-
-I also maintain several Python-based exploratory data analysis projects covering different datasets and business domains.
-
-| Project | Focus | Technologies |
-|---|---|---|
-| ☁️ Weather Analysis | Weather trends & patterns | Python, Pandas, NumPy |
-| 🚗 Cars Analysis | Automotive statistics | Python, Pandas, Seaborn |
-| 👮 Police Data Analysis | Statistical & demographic analysis | Python, Pandas |
-| 🦠 COVID-19 Analysis | Time-series & regional analysis | Python, Pandas |
-| 🎬 Netflix Analysis | Content & genre analysis | Python, Pandas, Seaborn |
-
----
-
-# 🎓 Software Engineering Background
-
-## ✈️ GDS API Integration — Booking Engine
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/MohamedAminBrahmi/Exrenal-Api-end-of-study-project)
-
-Full-stack travel booking system integrating external APIs.
-
-### 🛠️ Technologies
-
-`Java` `Spring Boot` `REST APIs` `Microservices`
-
-This project strengthened my understanding of:
-
-- Backend development
-- RESTful APIs
-- Microservice architecture
-- External API integration
-- Database-driven applications
-
----
-
-# 📚 Currently Learning
-
-```yaml
-focus:
-  - Advanced Business Intelligence
-  - Data Engineering
-  - Cloud Data Platforms
-  - Databricks
-  - Azure Data Services
-  - Advanced SQL
-  - Data Warehousing
-  - Machine Learning
-
-goals:
-  - Build scalable data pipelines
-  - Design modern data warehouses
-  - Develop enterprise BI solutions
-  - Transform complex datasets into business insights
-```
-
----
-
-# 🎯 What I'm Looking For
-
-I'm currently interested in opportunities related to:
-
-- 📊 Data Analyst
-- 💼 Business Intelligence Analyst
-- 🏗️ BI Engineer
-- 🔄 Data Engineer
-- 📈 BI Consultant
-- 🧮 SQL / Data Analytics
-- ☁️ Cloud Data & Analytics
-
-I'm particularly interested in projects involving **data transformation, ETL, data warehousing, analytics and business intelligence**.
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Amin_Brahmi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/med-amin-brahmi-950252276/)
-
-[![Email](https://img.shields.io/badge/Email-brahmimedamin7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahmimedamin7@gmail.com)
+### Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
 ---
 
+## 📊 Featured Projects
+
+### 🐍 Python Data Analysis Portfolio
+
+<table>
+<tr>
+<td width="50%">
+
+#### ☁️ [Weather Analysis](https://github.com/MohamedAminBrahmi/Weather-DA)
+Comprehensive weather data analysis using **Pandas**, **NumPy**, and **Seaborn**
+
+**Key Insights:**
+- Temperature trends & patterns
+- Precipitation analysis
+- Climate visualization
+
+**Tech:** `Python` `Pandas` `Matplotlib`
+
+</td>
+<td width="50%">
+
+#### 🚗 [Cars Stats Analysis](https://github.com/MohamedAminBrahmi/Car-DA)
+In-depth automotive statistics exploration
+
+**Highlights:**
+- Performance metrics
+- Market trends
+- Comparative analysis
+
+**Tech:** `Python` `Seaborn` `NumPy`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 👮 [Police Data Analysis](https://github.com/MohamedAminBrahmi/Police-DA)
+Statistical analysis of law enforcement data
+
+**Features:**
+- Pattern recognition
+- Demographic insights
+- Time-series analysis
+
+**Tech:** `Python` `Pandas` `Visualization`
+
+</td>
+<td width="50%">
+
+#### 🦠 [COVID-19 Analysis](https://github.com/MohamedAminBrahmi/Covid-DA-)
+Tracking and analyzing pandemic infection rates
+
+**Analysis:**
+- Infection curves
+- Regional comparisons
+- Forecasting trends
+
+**Tech:** `Python` `Data Science` `Statistics`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+#### 🎬 [Netflix Content Analysis](https://github.com/MohamedAminBrahmi/Netflix-DA)
+Exploring Netflix's content library and viewer trends
+
+**Insights:** Content distribution • Genre analysis • Release patterns
+
+**Tech:** `Python` `Pandas` `Seaborn` `Data Visualization`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 Power BI Dashboards
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏥 [Healthcare Data Insights (2019-2024)](https://github.com/MohamedAminBrahmi/Healthcare-data-insight-2019-2024)
+
+Comprehensive healthcare analytics dashboard
+
+**Features:**
+- 📊 Patient demographics
+- 💊 Treatment outcomes
+- 📅 5-year trend analysis
+- 🎯 KPI monitoring
+
+</td>
+<td width="50%">
+
+#### 💼 [Data Professional Survey](https://github.com/MohamedAminBrahmi/Data-Professional-Survey-Breakdown)
+
+Industry insights from data professionals
+
+**Analysis:**
+- 💰 Salary benchmarks
+- 🛠️ Tool preferences
+- 📍 Geographic distribution
+- 🎓 Education trends
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 💼 [Job Postings Analysis](https://github.com/MohamedAminBrahmi/Job-Posting-Intern-Project)
+
+Business Intelligence project analyzing job-market data through an end-to-end data pipeline.
+
+**Features:**
+- 🔄 Talend ETL pipeline
+- 🗄️ MySQL Data Warehouse
+- 📊 Power BI dashboard
+- 💰 Salary analysis
+- 🧑‍💻 Skills & programming languages
+- 🏢 Company & job analysis
+
+**Tech:** `Talend` `MySQL` `Power BI` `SQL` `ETL`
+
+</td>
+<td width="50%">
+
+#### 🛒 [Mytek E-Commerce Analysis](https://github.com/MohamedAminBrahmi/Summer_Intern_Mytek_Analysis)
+
+End-to-end e-commerce data analysis project developed during my internship.
+
+**Features:**
+- 🕷️ Web scraping
+- 🧹 Data cleaning
+- 📦 Product analysis
+- 📊 Power BI reporting
+- 📈 KPI & trend analysis
+
+**Tech:** `Python` `Pandas` `BeautifulSoup` `Selenium` `Power BI`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+#### 👨‍💻 [Remote Jobs Fetching Automation](https://github.com/MohamedAminBrahmi/Remote-Jobs-Fetching-Automation)
+
+Automated data collection pipeline for remote job opportunities.
+
+**Features:** API data collection • Data processing • Excel output • Automated execution
+
+**Tech:** `Python` `APIs` `Pandas` `Excel` `Airflow` `Docker`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏢 Professional Experience
+
+#### 🛒 [Summer Internship — Mytek E-commerce Analysis](https://github.com/MohamedAminBrahmi/Summer_Intern_Mytek_Analysis)
+
+**End-to-end data pipeline project combining web scraping, ETL, and business intelligence**
+
+<details>
+<summary>📋 <b>Project Details</b> (Click to expand)</summary>
+
+##### 🎯 Objectives
+- Automated web scraping of Mytek product catalog
+- Data cleaning and consolidation pipeline
+- Interactive Power BI reporting dashboard
+- Business insights presentation
+
+##### 🔧 Technical Stack
+- **Scraping:** Python, BeautifulSoup, Selenium
+- **Data Processing:** Pandas, NumPy
+- **Visualization:** Power BI
+- **Reporting:** PowerPoint presentation
+
+##### 📊 Key Deliverables
+- ✅ Automated product data extraction
+- ✅ Cleaned datasets with 10,000+ records
+- ✅ Interactive Power BI dashboard (.pbix)
+- ✅ Executive summary presentation
+- ✅ KPI tracking & trend analysis
+
+##### 💡 Business Impact
+- Identified pricing optimization opportunities
+- Analyzed product category performance
+- Tracked inventory trends
+- Provided actionable recommendations
+
+</details>
+
+---
+
+### 🎓 Capstone Project (Bachelor's Degree)
+
+#### ✈️ [GDS API Integration - Booking Engine](https://github.com/MohamedAminBrahmi/Exrenal-Api-end-of-study-project)
+
+**Full-stack travel booking system with external API integration**
+
+**Technologies:**
+- `Java` `Spring Boot` `REST APIs` `Microservices`
+
+**Features:**
+- Real-time flight/hotel booking
+- GDS system integration
+- Secure payment processing
+- RESTful architecture
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
 
-### 💡 Turning Data Into Decisions
 
-**Data Collection → ETL → Data Warehouse → BI → Insights**
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=MohamedAminBrahmi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+
+<br/><br/>
+
+
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedAminBrahmi&color=2D9CDB&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced Machine Learning Techniques
+  - Cloud-based Analytics (Azure, AWS)
+  - Real-time Data Streaming
+
+working_on:
+  - Expanding data analysis portfolio
+  - Building interactive dashboards
+  - Contributing to open-source projects
+
+seeking:
+  - Data Analyst opportunities
+  - Business Intelligence roles
+  - Collaborative data projects
+```
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+I'm always interested in collaborating on data-driven projects and discussing analytics opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Amin_Brahmi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/med-amin-brahmi-950252276/)
+[![Email](https://img.shields.io/badge/Email-brahmimedamin7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahmimedamin7@gmail.com)
+
+### 📫 Open to:
+✨ Data Analysis Projects | 💼 Job Opportunities | 🤝 Collaboration | 📚 Knowledge Sharing
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
