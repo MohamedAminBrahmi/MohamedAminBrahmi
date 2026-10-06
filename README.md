@@ -130,27 +130,20 @@ End-to-end e-commerce data analysis project developed during my internship.
 <tr>
 <td width="50%">
 
-🏕️ Scouts Data & Business Intelligence
+#### 🏕️ [Scouts Data & Business Intelligence](https://github.com/MohamedAminBrahmi/Esprit-PABI-4ERPBI8-2026-Scouts)
 
-Comprehensive data analysis and Business Intelligence project focused on Scouts activities, members, camps, budgets, and organizational data.
+Business Intelligence project analyzing Scouts activities, members, camps, budgets, and organizational data.
 
-Features:
+**Features:**
+- 🕷️ Web scraping & data collection
+- 🧹 Data cleaning & preparation
+- 📊 Power BI dashboard
+- 👥 Members & participation analysis
+- 🏕️ Camps & activities analysis
+- 💰 Budget & financial analysis
+- 🤖 Machine Learning dashboard
 
-🕷️ Data scraping & collection
-
-🧹 Data cleaning & preparation
-
-📊 Power BI dashboard
-
-👥 Members & participation analysis
-
-🏕️ Camps & activities analysis
-
-💰 Budget & financial analysis
-
-🤖 Machine Learning dashboard
-
-Tech: Python Web Scraping Pandas Power BI Excel Machine Learning
+**Tech:** `Python` `Pandas` `Power BI` `Excel` `Machine Learning`
 
 </td>
 <td width="50%">
