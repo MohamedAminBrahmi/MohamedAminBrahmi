@@ -87,7 +87,6 @@ me.say_hi()
 
 ## 📊 Featured Projects
 
-### 🐍 Python Data Analysis Portfolio
 
 ## 📊 Business Intelligence & Power BI Portfolio
 
