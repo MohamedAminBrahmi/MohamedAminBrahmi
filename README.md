@@ -130,17 +130,27 @@ End-to-end e-commerce data analysis project developed during my internship.
 <tr>
 <td width="50%">
 
-#### 🏥 [Healthcare Data Insights (2019-2024)](https://github.com/MohamedAminBrahmi/Healthcare-data-insight-2019-2024)
+🏕️ Scouts Data & Business Intelligence
 
-Comprehensive healthcare analytics dashboard.
+Comprehensive data analysis and Business Intelligence project focused on Scouts activities, members, camps, budgets, and organizational data.
 
-**Features:**
-- 📊 Patient demographics
-- 💊 Treatment outcomes
-- 📅 5-year trend analysis
-- 🎯 KPI monitoring
+Features:
 
-**Tech:** `Power BI` `DAX` `Data Modeling`
+🕷️ Data scraping & collection
+
+🧹 Data cleaning & preparation
+
+📊 Power BI dashboard
+
+👥 Members & participation analysis
+
+🏕️ Camps & activities analysis
+
+💰 Budget & financial analysis
+
+🤖 Machine Learning dashboard
+
+Tech: Python Web Scraping Pandas Power BI Excel Machine Learning
 
 </td>
 <td width="50%">
